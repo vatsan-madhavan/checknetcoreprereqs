@@ -1,4 +1,7 @@
 # checknotcoreprereqs
+
+[![Build Status](https://dev.azure.com/vmad/GitHubBuilds/_apis/build/status/vatsanm.checknetcoreprereqs?branchName=master)](https://dev.azure.com/vmad/GitHubBuilds/_build/latest?definitionId=8&branchName=master)
+
 Helper utility to check .NET Core Prerequisites on Windows systems
 
 When all checks pass, typical output looks like this:
